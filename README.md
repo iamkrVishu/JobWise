@@ -7,10 +7,15 @@ It supports authentication, admin controls, dark mode, and optional email notifi
 
 ## 🔗 Live Demo
 •	**Frontend** (Live)**: https://job-wise-red.vercel.app
+
 •	**Backend (Live)**: https://jobwise-server.onrender.com/
+
 •	**Project Live Demo** :  https://job-wise-red.vercel.app/
+
 •	**GitHub Repo**: https://github.com/iamkrVishu/JobWise.git
+
 •	**YouTube Demo**: https://youtu.be/Ih4sdDhOF_o
+
 •	**Portfolio**: https://myportfolio-eight-chi-82.vercel.app/
 ---
 
