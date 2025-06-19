@@ -49,7 +49,7 @@ It supports authentication, admin controls, dark mode, and optional email notifi
 
 > (Add screenshots here if possible: Home Page, Jobs Page, Feedback Form, Dashboard, Dark Mode)
 > ![Image](https://github.com/user-attachments/assets/8085ee46-c846-43a7-8fdb-1931bd3f6b29)
-
+![Image](https://github.com/user-attachments/assets/9ee46f3c-3693-419d-b741-0a3ca55d8e80)
 ![Image](https://github.com/user-attachments/assets/c72d2adf-af4d-4078-9a23-835c211e4290)
 ![Image](https://github.com/user-attachments/assets/5161cffc-d426-47f5-8f49-848a9e22b2ca)
 ![Image](https://github.com/user-attachments/assets/9a90508b-950c-493a-b44b-ba6ccd6861fb)
@@ -57,7 +57,6 @@ It supports authentication, admin controls, dark mode, and optional email notifi
 ![Image](https://github.com/user-attachments/assets/45c77c4a-2c79-4b00-bca6-28e038690ba4)
 ![Image](https://github.com/user-attachments/assets/6b614a9b-ef66-4c69-8920-c958ebfe33cd)
 ![Image](https://github.com/user-attachments/assets/e6e844a0-e5fc-4fe7-a2fc-67ca584e5516)
-![Image](https://github.com/user-attachments/assets/9ee46f3c-3693-419d-b741-0a3ca55d8e80)
 
 ---
 
